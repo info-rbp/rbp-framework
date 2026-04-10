@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+.env
+venv/
+env/
+node_modules/
+sites/assets/
+sites/*/private/
+sites/*/public/files/
+sites/*/logs/
+sites/*/site_config.json
