@@ -5,8 +5,14 @@ __pycache__/
 venv/
 env/
 node_modules/
-sites/assets/
+
+logs/
+config/pids/
+
 sites/*/private/
 sites/*/public/files/
 sites/*/logs/
+sites/*/locks/
+sites/*/indexes/
 sites/*/site_config.json
+sites/assets/
